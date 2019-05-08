@@ -18,7 +18,7 @@ define('SECURITY_CHECK', true);
 
 define('DS', DIRECTORY_SEPARATOR);
 define('CORE_ROOT', dirname(__FILE__).DS.'wolf');
-define('CFG_FILE', 'config.php');
+define('CFG_FILE', 'config-local.php');
 
 require(CORE_ROOT.DS.'utils.php');
 require(CFG_FILE);

@@ -1,2 +1,3 @@
 .htaccess
 .idea/*
+config-local.php
