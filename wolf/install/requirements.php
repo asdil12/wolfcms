@@ -146,7 +146,7 @@ $https = '<span class="'.($check ? 'check' : 'notcheck').'">'.($check ? 'true' :
         <sup>1)</sup> - Only one database <strong>has</strong> to be supported by PDO.
         If you use MySQL, you don't need a SQLite or PostgreSQL driver and visa versa.<br/>
 
-        <sup>2)</sup> - "config.php" at install root.<br/>
+        <sup>2)</sup> - empty "config-local.php" at install root.<br/>
         
         <sup>3)</sup> - "public" at install root.<br/>
 

@@ -33,7 +33,7 @@ if (!defined('INSTALL_SEQUENCE')) {
         <ol>
             <li><strong>Run <a href="../../security.php">the security check</a>.</strong></li>
             <li>Delete the <em>wolf/install/</em> folder!</li>
-            <li>Remove write permissions from the <em>config.php</em> file! <sup>2)</sup></li>
+            <li>Remove write permissions from the <em>config-local.php</em> file! <sup>2)</sup></li>
             <li>Remove the <em>docs/</em> folder and <em>readme.txt</em> to enhance security.</li>
         </ol>
         <h3>Footnotes</h3>
